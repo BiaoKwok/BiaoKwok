@@ -1,8 +1,10 @@
 
 # Hello, I'm GB.
 
-I am developer open-source.
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Lay a solid foundation, and you'll be calm and confident.(基石而扎实，从容而自信。)!&center=true&size=27"> </a> </h1>
+I am developer open-source. 
+基石而扎实，从容而自信。
+
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Lay a solid foundation, and you'll be calm and confident.&center=true&size=27"> </a> </h1>
 
 
 ## 🛠️ Languages:
