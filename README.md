@@ -1,5 +1,5 @@
 
-# Hello, I'm GB 
+# Hello, I'm GB.
 
 I am developer open-source.
 
@@ -14,4 +14,5 @@ I am developer open-source.
 ## 🏆 My GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats-six-rho-74.vercel.app/api?username=KwokBiao&show_icons=true&theme=default)
 
+## Metrics
 <div align="center"> <img src="https://metrics.lecoq.io/KwokBiao?template=classic&config.timezone=Asia%2FSingapore"> </div>
