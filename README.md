@@ -2,7 +2,9 @@
 # Hello, I'm GB.
 
 Passionate about open source and R&D
+
 基石而扎实，从容而自信。
+
 Lay a solid foundation, and you'll be calm and confident. 
 
 
