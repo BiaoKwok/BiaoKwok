@@ -34,4 +34,4 @@ Lay a solid foundation, and you'll be calm and confident.
 ![Your GitHub stats](https://github-readme-stats-six-rho-74.vercel.app/api?username=BiaoKwok&show_icons=true&theme=default)
 
 ## Metrics
-<div align=""> <img src="https://metrics.lecoq.io/KwokBiao?template=classic&config.timezone=Asia%2FSingapore"> </div>
+![Metrics](https://metrics.lecoq.io/BiaoKwok?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=UTC)
