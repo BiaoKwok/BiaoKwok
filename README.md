@@ -28,10 +28,10 @@ Lay a solid foundation, and you'll be calm and confident.
   - Intelligence
 
 ## My GitHub Language Stats
-![Top Langs](https://github-readme-stats-six-rho-74.vercel.app/api/top-langs/?username=KwokBiao&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-six-rho-74.vercel.app/api/top-langs/?username=BiaoKwok&layout=compact&theme=default)
 
 ## My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats-six-rho-74.vercel.app/api?username=KwokBiao&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats-six-rho-74.vercel.app/api?username=BiaoKwok&show_icons=true&theme=default)
 
 ## Metrics
 <div align=""> <img src="https://metrics.lecoq.io/KwokBiao?template=classic&config.timezone=Asia%2FSingapore"> </div>
